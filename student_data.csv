@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Math,Physics,Chemistry,Attendance
+S101,Alice,Computer Science,85,80,78,85
+S102,Bob,Computer Science,45,50,55,70
+S103,Charlie,Computer Science,92,89,94,95
+S104,David,Computer Science,78,75,82,80
+S105,Eva,Computer Science,88,90,85,90
+S106,Frank,Computer Science,32,40,45,60
+S107,Grace,Computer Science,95,96,91,98
+S108,Hannah,Computer Science,67,70,65,82
+S109,Ian,Computer Science,74,72,76,78
+S110,Jack,Computer Science,89,85,88,88
+S111,Karen,Information Tech,91,92,89,92
+S112,Leo,Information Tech,55,60,58,74
+S113,Mona,Information Tech,82,80,83,85
+S114,Nina,Information Tech,79,85,80,86
+S115,Oscar,Information Tech,41,38,42,65
+S116,Paul,Information Tech,98,95,97,96
+S117,Quinn,Information Tech,84,82,85,89
+S118,Rachel,Information Tech,76,78,74,79
+S119,Sam,Information Tech,60,65,62,75
+S120,Tina,Information Tech,93,88,90,94
