@@ -1,0 +1,10 @@
+# Virtual Environments
+venv/
+env/
+
+# Python Cache files
+__pycache__/
+*.pyc
+
+# Optional: Ignore the generated CSV if you want users to generate it themselves
+# student_data.csv
